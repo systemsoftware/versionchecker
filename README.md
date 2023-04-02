@@ -2,7 +2,7 @@
 ### Keep your apps up-to-date!
 
 ## Installation
-[`npm i versionchecker`](https://docs.npmjs.com/getting-started/installing-npm-packages-locally)
+[`npm i @systemsoftware/versionchecker`](https://docs.npmjs.com/getting-started/installing-npm-packages-locally)
 
 ## Setup
 1. Create a Repo on Github
@@ -38,6 +38,6 @@ console.log(await checker.check()); // { ok: true, latest: 'LATEST VERSION HERE'
 5. Run your file with `node index.js` and you should get the latest version of your app!
 
 ## Other info
- Get more in-depth help or suggest something on [Discord](https://discord.gg/nzTmfZ8) & [Github](https://github.com/coolstone-tech/versionchecker/issues)
+ Get more in-depth help or suggest something on [Discord](https://discord.gg/nzTmfZ8) & [Github](https://github.com/systemsoftware/versionchecker/issues)
 
  Like our work? [Support us on Patreon](https://www.patreon.com/coolstone)
